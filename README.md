@@ -2,7 +2,9 @@
 This is the source code of i2p-observer, a Java programm which collects information about the I2P network.
 It was created as part of a bachelor thesis, which can be found here: https://jenix.net/i2p-observer/Analysis_of_the_I2P_Network-Bachelor_Thesis.pdf
 
-The code works and runs fine since the last 6 or so months, but has definately room for improvements.
+The code works and runs fine since the last 6 or so months, but has definately room for improvements. You are free to use the code for academic research or development.
+Usage by state agencies or their contractors is strictly forbidden.
+
 
 # Installation
 
