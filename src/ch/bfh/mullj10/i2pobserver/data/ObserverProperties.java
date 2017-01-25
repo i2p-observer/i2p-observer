@@ -27,9 +27,9 @@ public class ObserverProperties {
 	private final String PAGE_BOTTOM = "</div> <!-- /container -->\n\n\n<!-- Bootstrap core JavaScript\n================================================== -->\n<!-- Placed at the end of the document so the pages load faster -->\n<script src=\"../theme/jquery/jquery.min.js\"></script>\n<script src=\"../theme/bootstrap/js/bootstrap.min.js\"></script>\n<script src=\"../theme/bootstrap/headings.js\"></script>\n<script src=\"../theme/bootstrap/table.js\"></script>\n";
 
 	// settings for HtmlUploader
-	private final String FTP_HOSTNAME = "security4web.ch";
-	private final String FTP_USERNAME = "Mueller%40security4web.ch";
-	private final String FTP_PASSWORD = "Tor4I2P-2016";
+	private final String FTP_HOSTNAME = "";
+	private final String FTP_USERNAME = "";
+	private final String FTP_PASSWORD = "";
 	
 	// uniform names in RouterInfoStatistic
 	private final String FLOODFIL_ROUTERS_DENOTATION = "floodfilRouters";
