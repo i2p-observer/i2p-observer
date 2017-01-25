@@ -9,7 +9,7 @@ The code works and runs fine since the last 6 or so months, but has definately r
 - Install and run an instance of I2P on the same machine on which i2p-observer should run.
 - Clone the repository
 - Add credentials for the FTP upload into data/ObserverProperties
-- 
+- Probably adjust and fix some stuff
 
 # Requirements
 i2p-observer uses various third party plugins:
